@@ -1,7 +1,4 @@
 # mbanking_app_flutter
-
-![Powered by Mikumimiestu](https://img.shields.io/badge/CreatedBy-Mikumimiestu%20-ffb6c1?style=flat-square&logo=sparkles&logoColor=white)
-
 Aplikasi Mobile Banking sederhana berbasis Flutter.
 
 ## Fitur Utama
