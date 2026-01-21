@@ -1,0 +1,3 @@
+- [ ] Fix history_page.dart: Add 'const' to applicable constructors (e.g., TextStyle, Container, BoxDecoration) to resolve prefer_const_constructors violations.
+- [ ] Fix transfer_page.dart: Add 'const' to applicable constructors for the same reason.
+- [ ] Run 'flutter analyze' to verify fixes.
